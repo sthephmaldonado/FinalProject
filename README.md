@@ -7,4 +7,6 @@ Instructions for running the project
 
 1. Open Danne Woo file on this link: https://editor.p5js.org/dannewoo/sketches/u3qoypo-M
 2. Delete the code 
-3. Copy & Paste the code inside Final_project_code.js 
+3. Copy & Paste the code inside Final_project_code.js (https://github.com/sthephmaldonado/FinalProject/blob/main/Final_project_code.js)
+4. Run the code 
+5. Enjoy the craziness!
