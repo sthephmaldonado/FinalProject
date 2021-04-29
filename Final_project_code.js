@@ -49,7 +49,7 @@ function draw() {
     rect(x, 0, width/ fftLin.length, h);
     
   //waves frequency  
-  var modFreq = map(mouseX, 0, width, 20, 15000);
+  var modFreq = map(mouseX, 0, width, 20, 1000); //sound waves at lower frequency 
   var modAmp = map(mouseY, 0, height, 0, 1);
   osc.freq(modFreq);
   osc.amp(modAmp);
